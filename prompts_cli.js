@@ -10,3 +10,5 @@ const prompts = require('prompts');
 
 console.log(response); // => { value: 24 }
 })();
+
+// do not use this file for production. for testing 'prompts' https://www.npmjs.com/package/prompts
